@@ -1,4 +1,4 @@
-#  Super Store Sales Analysis Dashboard
+#  Super Store Sales Analysis
 ### This dashboard provides an interactive visual analysis of Super Store sales data, it integrates AWS analytics services with Tableau BI to enable near real-time analysis directly from cloud data storage and processing.
 
 ## 🔧 Technologies Used
