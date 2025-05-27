@@ -41,5 +41,5 @@ Connection required the following settings:
 
 - Extracts were scheduled as needed to optimize performance or run live queries.
 <p align="center">
-  <img src="Architecture (2).png" alt="Dashboard Preview" width="700"/>
+  <img src="AWS_SuperStore_Analytics.png" alt="Dashboard Preview" width="700"/>
 </p>
