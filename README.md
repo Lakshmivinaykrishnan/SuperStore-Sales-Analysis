@@ -22,6 +22,10 @@
 - Amazon Athena
 Athena was used to query structured data directly from the S3 bucket using standard SQL.
 Tables created from Glue Catalog were referenced in SQL queries for Tableau reporting.
+<p align="center">
+  <img src="Architecture (2).png" alt="Dashboard Preview" width="700"/>
+</p>
+
 
 ##  Tableau Integration
 Tableau Desktop was connected to Athena using the Amazon Athena ODBC Driver.
@@ -36,3 +40,6 @@ Connection required the following settings:
 - Database
 
 - Extracts were scheduled as needed to optimize performance or run live queries.
+<p align="center">
+  <img src="Architecture (2).png" alt="Dashboard Preview" width="700"/>
+</p>
