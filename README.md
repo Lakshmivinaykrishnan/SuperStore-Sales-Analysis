@@ -35,7 +35,7 @@ Connection required the following settings:
 
 - S3 Staging Directory
 
-- Catalog Name: AWS Glue catalog
+- AWS Glue catalog
 
 - Database
 
