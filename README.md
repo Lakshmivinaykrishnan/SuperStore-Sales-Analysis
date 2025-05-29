@@ -3,9 +3,9 @@
 
 ## 🔧 Technologies Used
 - **AWS IAM**
-- **Amazon S3** (Partitioned Data)
+- **Amazon S3** 
 - **AWS Glue** (Data Catalog)
-- **Amazon Athena**
+- **Amazon Athena** (SQL)
 - **Tableau**
 ##  Data Pipeline & Architecture
 - IAM (Identity and Access Management) 
